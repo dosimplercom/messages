@@ -1,0 +1,5 @@
+### get list
+GET http://localhost:3000/messages
+
+### get id
+GET http://localhost:3000/messages/23423
